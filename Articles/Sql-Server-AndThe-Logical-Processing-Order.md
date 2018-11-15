@@ -1,3 +1,10 @@
+---
+layout: post
+date: 2018-11-15 22:38:00 +00:00
+--- tags #
+- c#
+- cliTools
+---
 # SQL Server and the Logical Processing Order
 
 Have you ever wondered why you can use a column alias in the ORDER BY clause but not the GROUP BY?  This is a consequence of how SQL Server processes your queries.  Each query clause is executed in a set order.  This has a catchy moniker; the logical processing order of the SELECT statement (I’d bet good money that an engineer devised the name).  MS Docs defines the order in an [article on the SELECT statement](https://docs.microsoft.com/en-us/sql/t-sql/queries/select-transact-sql?view=sql-server-2017):
