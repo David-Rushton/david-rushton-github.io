@@ -1,3 +1,6 @@
+title: David Rushton
+description: My adventures in SQL, PowerShell, .Net, R and Data.
+google_analytics: UA-129287490-1
 theme: jekyll-theme-hacker
 defaults:
   - scope:
