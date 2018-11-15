@@ -1,5 +1,5 @@
 ---
-layout: posts
+layout: post
 title: cliTools
 date: 2018-11-15 22:38:00
 --- tags #
