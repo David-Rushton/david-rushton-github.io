@@ -4,5 +4,5 @@ Coming soon; the new home for my [blog](https://destinationdata.wordpress.com/).
 
 ## Articles
 
-- [SQL Server and the Logical Processing Order](.\Articles\Sql-Server-AndThe-Logical-Processing-Order.md)
-- [cliTools](.\Articles\cliTools-Intro.md)
+- [SQL Server and the Logical Processing Order](.\Articles\Sql-Server-AndThe-Logical-Processing-Order)
+- [cliTools](.\Articles\cliTools-Intro)
