@@ -1,3 +1,11 @@
+---
+layout: posts
+title: cliTools
+date: 2018-11-15 22:38:00
+--- tags #
+- c#
+- cliTools
+---
 # cliTools
 
 ## Command Line Arguments
