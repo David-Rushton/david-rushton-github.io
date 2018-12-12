@@ -8,5 +8,6 @@ I am an occasional blogger.
 
 ## Articles
 
-- [SQL Server and the Logical Processing Order](.\Articles\Sql-Server-AndThe-Logical-Processing-Order)
+- [Football and Data](.\Articles\Football-and-Data)
 - [cliTools](.\Articles\cliTools-Intro)
+- [SQL Server and the Logical Processing Order](.\Articles\Sql-Server-AndThe-Logical-Processing-Order)
