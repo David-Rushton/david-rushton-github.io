@@ -1,3 +1,12 @@
+---
+layout: post
+date: 2018-12-13 23:33:00 +00:00
+--- tags #
+- powershell
+- football
+- r
+- data-science
+---
 # Football and Data
 
 I recently started a [new project](https://github.com/David-Rushton/Football).  For the moment it is called Football, although I'm hoping a moment of inspiration will deliver a better name.  The project has two goals:
